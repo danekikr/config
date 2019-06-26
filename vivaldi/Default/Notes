@@ -1,0 +1,21 @@
+{
+   "checksum": "9769cfb9c3facc9b2ec75370ddb35e77",
+   "children": [ {
+      "children": [  ],
+      "date_added": "13205230174179687",
+      "id": "2",
+      "subject": "Other Notes",
+      "type": "other"
+   }, {
+      "children": [  ],
+      "date_added": "13205230174179687",
+      "id": "3",
+      "subject": "Papirkurv",
+      "type": "trash"
+   } ],
+   "date_added": "13205230174179686",
+   "id": "1",
+   "subject": "Notes",
+   "type": "folder",
+   "version": 1
+}

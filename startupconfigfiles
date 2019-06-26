@@ -1,0 +1,49 @@
+kcminputrc Mouse cursorTheme 'breeze_cursors'
+/home/raven/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/raven/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/home/raven/.config/kcminputrc
+!/etc/xdg/kcminputrc
+!/home/raven/.local/share/config/kcminputrc
+!/usr/local/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Breeze
+/home/raven/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/raven/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashQML
+/home/raven/.config/ksplashrc
+!/etc/xdg/ksplashrc
+!/home/raven/.local/share/config/ksplashrc
+!/usr/local/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kdeglobals KScreen ScaleFactor ''
+/home/raven/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/raven/.local/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kdeglobals KScreen ScreenScaleFactors ''
+/home/raven/.config/kdeglobals
+!/etc/xdg/kdeglobals
+!/home/raven/.local/share/config/kdeglobals
+!/usr/local/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*
+kcmfonts General forceFontDPI 0
+/home/raven/.config/kcmfonts
+!/etc/xdg/kcmfonts
+!/home/raven/.local/share/config/kcmfonts
+!/usr/local/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*

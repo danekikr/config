@@ -1,0 +1,44 @@
+{
+   "background": {
+      "scripts": [ "js/polyfill.js", "js/PartnerId.js", "js/chrome.js", "js/util.js", "js/TemplateParser.js", "js/ajax.js", "js/ul.js", "js/dlpHelper.js", "js/dlp.js", "js/logger.js", "js/storageUtils.js", "js/webtooltabAPI.js", "js/dateTimeUtils.js", "js/offerService.js", "js/remoteConfigLoader.js", "js/babClickHandler.js", "js/browserUtils.js", "js/splashPageRedirectHandler.js", "js/contentScriptConnectionManager.js", "js/babAPI.js", "js/babContentScriptAPI.js", "js/background.js", "js/index.js", "js/urlUtils.js", "js/pageUtils.js", "js/urlFragmentActions.js" ]
+   },
+   "browser_action": {
+      "browser_style": true,
+      "default_icon": {
+         "19": "icons/icon19on.png"
+      },
+      "default_title": ""
+   },
+   "chrome_url_overrides": {
+      "newtab": "ntp.html"
+   },
+   "content_scripts": [ {
+      "js": [ "/js/logger.js", "/js/chrome.js", "/js/util.js", "/js/webTooltabAPIProxy.js" ],
+      "matches": [ "*://*.atozmanuals.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "js/logger.js", "js/chrome.js", "js/util.js", "js/localStorageContentScript.js" ],
+      "matches": [ "*://atozmanuals.dl.myway.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "js/logger.js", "js/chrome.js", "js/util.js", "js/extensionDetect.js" ],
+      "matches": [ "*://*.atozmanuals.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_marketingDescription__",
+   "homepage_url": "http://free.atozmanuals.com/index.jhtml",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon19on.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgwA7fHul7fBDo1+4t15CUx0FbxwxrZquMK5D6F62FbCfvagvoK8FrhIxRUVvl65XOWq7dW1RFd29dPNDZNJ0pWZFqP4xy9hEn4nfPOcFyJ+mFDxh7c90YvtM9tTGbKIlxKvPuoPOGEd+5BqfRAyGX2rVic4XnLidGatQGxcvQ499kKOPqfZFpUyNarYG/nzbAOSS/Fm4VSyP04/x1OfyuaF24Xltp56oXe63KnZm59mwTZGt+5hH3rV7D1zCWcF8rLwuNtAzo/iq7feKZ1KaUNGII6oTU3VrgOCDz4FFLNZXNHPEqINYhM2Wg9olOoeIHLf3oOC0l/5Q/jZjq2SJGQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_productName__",
+   "permissions": [ "alarms", "contextMenus", "tabs", "storage", "activeTab", "webNavigation", "webRequestBlocking", "webRequest", "*://anx.tb.ask.com/*", "*://live.tb.ask.com/*", "https://*.amazonaws.com/*", "*://*.atozmanuals.com/*", "*://hp.myway.com/*", "management", "downloads", "cookies" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "13.882.15.37049",
+   "web_accessible_resources": [  ]
+}

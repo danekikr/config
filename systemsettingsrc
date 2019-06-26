@@ -1,0 +1,24 @@
+[DownloadDialog Settings]
+Height 1152=522
+Width 2048=700
+
+[KFileDialog Settings]
+Recent Files[$e]=laptop,file:$HOME/bin/laptop
+Recent URLs[$e]=file:$HOME/bin/
+
+[KPropertiesDialog]
+Height 1152=508
+Width 2048=683
+
+[MainWindow]
+Height 1152=1091
+Height 2160=1212
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABzUAAARDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 2048=1845
+Width 3840=1845
+
+[Open-with settings]
+CompletionMode=1
+History=yak

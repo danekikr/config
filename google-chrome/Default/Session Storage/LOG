@@ -1,0 +1,9 @@
+2019/06/26-05:44:03.995 f3f Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/06/26-05:44:03.995 f3f Recovering log #41
+2019/06/26-05:44:03.996 f3f Reusing old log Session Storage/000041.log 
+2019/06/26-05:44:43.909 fcc Level-0 table #45: started
+2019/06/26-05:44:43.915 fcc Level-0 table #45: 39174 bytes OK
+2019/06/26-05:44:43.919 fcc Delete type=0 #41
+2019/06/26-05:45:09.569 f41 Level-0 table #47: started
+2019/06/26-05:45:09.576 f41 Level-0 table #47: 49020 bytes OK
+2019/06/26-05:45:09.579 f41 Delete type=0 #44

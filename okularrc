@@ -1,0 +1,13 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1152=1043
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA+sAAAPuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 2048=1003
+
+[Recent Files]
+File1[$e]=$HOME/.config/VirtualBox/UserManual.pdf
+Name1[$e]=UserManual.pdf

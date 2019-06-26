@@ -1,0 +1,6 @@
+2019/06/26-05:44:03.750 f47 Reusing MANIFEST /home/raven/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/06/26-05:44:03.750 f47 Recovering log #22
+2019/06/26-05:44:03.753 f47 Reusing old log /home/raven/.config/google-chrome/Default/Sync Data/LevelDB/000022.log 
+2019/06/26-05:50:23.899 1658 Level-0 table #26: started
+2019/06/26-05:50:23.910 1658 Level-0 table #26: 142404 bytes OK
+2019/06/26-05:50:23.913 1658 Delete type=0 #22

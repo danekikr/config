@@ -1,0 +1,7 @@
+[MainWindow]
+Height 1152=595
+Width 2048=621
+
+[WalletEditor]
+AlwaysShowContents=false
+SplitterSize=257,343

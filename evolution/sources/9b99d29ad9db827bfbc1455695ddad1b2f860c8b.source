@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=mail4kruse@gmail.com
+Enabled=true
+Parent=e0f37fe40295a5cfd981c87b6db9e717133eefa6
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=982dfecc05bceb4089bbc7fe1f8196cdecd38127
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=mail4kruse@gmail.com
+Aliases=
+Name=Kim Kruse
+Organization=
+ReplyTo=
+SignatureUid=none

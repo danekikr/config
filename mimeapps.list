@@ -1,0 +1,8 @@
+[Default Applications]
+text/html=kfmclient_html.desktop
+x-scheme-handler/mailto=userapp-Evolution-M1EQ3Z.desktop
+
+[Added Associations]
+application/x-shellscript=atom.desktop;
+text/plain=atom.desktop;
+x-scheme-handler/mailto=userapp-Evolution-M1EQ3Z.desktop;
